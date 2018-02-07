@@ -479,4 +479,3 @@ void cpu_brand_string( char* s )
     }
 #endif
 }    
-
